@@ -23,7 +23,7 @@ int n = s.length();
 
 explain this code visually
 
-![Alt text](E:\Develoupment\Daily_DSA\Pattern 2_Sliding_Window\explain.png)   
+![Alt text]('E:/Develoupment/Daily_DSA/Pattern 2_Sliding_Window/explain.png')   
 
 Show less
 4:55 PM
